@@ -8,7 +8,7 @@ match the file format Rafa wanted.
 This program will reindex the quantification table according to Rafa's
 custom GTF file.
 
-In addition it will also the equivalent to his "sanitycheck.R" script
+In addition it will also do the equivalent to his "sanitycheck.R" script
 in the rafa_validation function.
 
 Usage:
